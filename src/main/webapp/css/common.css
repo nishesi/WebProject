@@ -1,0 +1,22 @@
+.channel-image {
+    height: 40px;
+    width: 40px;
+}
+#logo {
+    height: 45px;
+    width: 45px;
+}
+#user-image {
+    height: 40px;
+    width: 40px;
+}
+
+main {
+    max-width: 1300px;
+}
+
+a {
+    text-decoration: none;
+    color: #666;
+}
+
